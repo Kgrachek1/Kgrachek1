@@ -1,7 +1,7 @@
 <h1>Hello and welcome to my GitHub Profile</h1>
 <hr>
-  <h3>You can browse projects i have worked on or have been apart of in team settings here.</h3>
-  #[Team Project](https://github.com/Kgrachek1/showtube)
+<h3>You can browse projects i have worked on or have been apart of in team settings here.</h3>
+[Team Project](https://github.com/Kgrachek1/showtube)
 
 # Technologies Used: 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
